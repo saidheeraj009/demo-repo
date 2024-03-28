@@ -1,3 +1,3 @@
 #demo
 
-Hi today i ahve started doing git deom 
+Hi today i have started doing git demo
